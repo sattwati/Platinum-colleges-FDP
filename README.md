@@ -37,7 +37,7 @@ Follow these steps to import the notebook in Watson Studio
 4. Click on “Notebook”
 5. Click on the “From URL” tab
 6. Give it a name in the “Name” field
-7. The published notebook can be found (to import in Watson Studio, take the raw content) here github URL
+7. The published notebook can be found (to import in Watson Studio, take the raw content) here [github URL](https://github.com/sattwati/Platinum-colleges-FDP/blob/master/notebook/Experiment_Notebooks.ipynb)
 8. Make sure to select “Default Python 3.6 XS Free (2 vCPU and 8 GB RAM) in the “Select runtime” dropdown
 9. Click on “Create Notebook”
 You should see the notebook appearing after the runtime has started. Please follow the instructions in README.md file link provided here

@@ -1,7 +1,7 @@
 # Platinum-colleges-FDP
 ## This repository is meant to collaborate with Platinum colleges Faculty
 
-A simple walkthrough of a Machine Learning exercise, creating, evaluating, and deploying a Machine Learning model without writing a single line of code.
+The videos below give a simple walkthrough of a Machine Learning exercise, creating, evaluating, and deploying a Machine Learning model without writing a single line of code.
 
 You will set up a free Watson Studio account, a web-based IDE for Machine Learning, Data Science, and Deep Learning.
 

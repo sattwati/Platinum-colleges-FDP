@@ -42,11 +42,11 @@ Follow these steps to import the notebook in Watson Studio
 9. Click on “Create Notebook”
 You should see the notebook appearing after the runtime has started. Please follow the instructions in here
 
-# Important instructions to use the content in this repository (experiments-with-notebooks)
+# Important instructions to use the content in this repository 
 
 This repository contains the notebooks, datasets, and additional resources needed to prepare for the ai-a-thon. 
 
-The content is structured in respective folders for easy navigation. The notebooks contain the code and they are provided in the `notebooks` folder. The required datasets are provided in the `datasets` folder.
+The content is structured in respective folders for easy navigation. The notebooks contain the code and they are provided in the `notebook` folder. The required datasets are provided in the `datasets` folder.
 
 |Notebook    |Purpose                                                               |Dataset                        |
 |-------------|-----------------------------------------------------------------------|--------------------------------|
@@ -58,7 +58,9 @@ In order to use these notebooks, please follow the steps outlined below:
 * Create an account in [Watson Studio](https://dataplatform.cloud.ibm.com)
 * Create a new project in Watson Studio - As you have seen in [DataRefinery video](https://www.youtube.com/watch?time_continue=1&v=QR2oeq6zqgc&feature=emb_logo)
 * Import the notebooks by accessing this github resource. Start with the notebook [Experiment_Notebooks.ipynb](https://github.com/sattwati/Platinum-colleges-FDP/blob/master/notebook/Experiment_Notebooks.ipynb). <This is an example for your benefit. The actual exercise will be with a different data and notebook.>
+
 Make sure to use the "raw" content URL
+
 Use the following link to preview the notebook
 [Link to notebook for session](https://github.com/sattwati/Platinum-colleges-FDP/blob/master/notebook/FDP_Steel_Plates_Faults_upload.ipynb)
 

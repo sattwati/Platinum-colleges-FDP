@@ -1,5 +1,5 @@
 # Platinum-colleges-FDP
-This repository is meant to collaborate with Platinum colleges Faculty
+## This repository is meant to collaborate with Platinum colleges Faculty
 
 A simple walkthrough of a Machine Learning exercise, creating, evaluating, and deploying a Machine Learning model without writing a single line of code.
 

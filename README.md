@@ -56,8 +56,9 @@ The content is structured in respective folders for easy navigation. The noteboo
 In order to use these notebooks, please follow the steps outlined below:
 
 * Create an account in [Watson Studio](https://dataplatform.cloud.ibm.com)
-* Create a new project in Watson Studio
-* Import the notebooks by accessing this github resource. Start with the notebook _"Experiment_Notebooks.ipynb"_. Make sure to use the "raw" content URL
+* Create a new project in Watson Studio - As you have seen in [DataRefinery video](https://www.youtube.com/watch?time_continue=1&v=QR2oeq6zqgc&feature=emb_logo)
+* Import the notebooks by accessing this github resource. Start with the notebook [Experiment_Notebooks.ipynb](https://github.com/sattwati/Platinum-colleges-FDP/blob/master/notebook/Experiment_Notebooks.ipynb). <This is an example for your benefit. The actual exercise will be with a different data and notebook.>
+Make sure to use the "raw" content URL
 Use the following link to preview the notebook
-Link to model notebook
-Link to help notebook
+[Link to notebook for session](https://github.com/sattwati/Platinum-colleges-FDP/blob/master/notebook/FDP_Steel_Plates_Faults_upload.ipynb)
+

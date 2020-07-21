@@ -60,7 +60,7 @@ In order to use these notebooks, please follow the steps outlined below:
 * Import the notebooks by accessing this github resource. Start with the notebook [Experiment_Notebooks.ipynb](https://github.com/sattwati/Platinum-colleges-FDP/blob/master/notebook/Experiment_Notebooks.ipynb). <This is an example for your benefit. The actual exercise will be with a different data and notebook.>
 
 Make sure to use the "raw" content URL
-Follow the [step by step guide](https://github.com/sattwati/Platinum-colleges-FDP/blob/master/FDP_Handson_ML_WS_Steps.pptx) Refer to snapshots in the ppt.
+Follow the [step by step guide](https://github.com/sattwati/Platinum-colleges-FDP/blob/master/FDP_Handson_ML_WS_Steps.pdf) Refer to snapshots in the ppt.
 
 Use the following link to preview the notebook
 [Link to notebook for session](https://github.com/sattwati/Platinum-colleges-FDP/blob/master/notebook/FDP_Steel_Plates_Faults_upload.ipynb)

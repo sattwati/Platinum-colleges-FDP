@@ -25,7 +25,7 @@ You will call the prediction model web service to make predictions.
 ### [4. Train and Evaluate a machine learning model](https://www.youtube.com/watch?time_continue=3&v=fxG40Sz8tik&feature=emb_logo)
 
 
-### [5. Deploy ad call the ML model as a web service](https://www.youtube.com/watch?v=d32NgfdCvh8&feature=emb_logo)
+### [5. Deploy and call the ML model as a web service](https://www.youtube.com/watch?v=d32NgfdCvh8&feature=emb_logo)
 
 
 
